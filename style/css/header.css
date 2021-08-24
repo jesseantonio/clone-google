@@ -38,3 +38,7 @@ nav .nav--item{
   text-decoration: none;
   color: rgba(0,0,0,0.87);
 }
+div{
+  justify-content: center;
+  align-items: baseline;
+}

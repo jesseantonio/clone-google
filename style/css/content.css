@@ -1,0 +1,22 @@
+main{
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    position: relative;
+    top: 60px;
+}
+.content__search {
+    margin-top: 18px; 
+    width: 100%;
+    max-width: 736px;
+    padding: 7px 10px 6px 20px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.87);
+    background: transparent;
+    border-radius: 25px;
+    border: 1px solid #dadce0;
+    outline: 0;
+  }
+.buttons-content{
+    background-color: red;
+}
