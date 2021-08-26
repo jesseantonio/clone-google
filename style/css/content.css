@@ -17,6 +17,24 @@ main{
     border: 1px solid #dadce0;
     outline: 0;
   }
-.buttons-content{
-    background-color: red;
+.buttons--content{
+    background-color: #f8f8fa;
+    border: 1px solid #f8f9fa;
+    padding: 10px;
+    margin-top: 28px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+.text--content{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.link--content{
+    text-decoration: none;
+    color: #1A0DAB;
+}
+.buttons--content:hover{
+    border-color: gray;
+    border-width: 1.5   px;
 }

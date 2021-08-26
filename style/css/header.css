@@ -19,8 +19,9 @@ nav .nav--item{
   align-items: center;
 }
 .header{
-  position: relative;
-  left: 80%;
+  
+    justify-content: center;
+    align-items: baseline;
 }
 #item--avatar{
     width: 32px;
