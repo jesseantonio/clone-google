@@ -1,5 +1,29 @@
 footer{
-    background-color: grey;
+    background-color: none;
     position: relative;
-    top: 300px;
+    top: 310px;
+}
+.text--footer{
+    color: #70757A;
+    font-size: 15px;
+    padding: 15px 15px;
+    margin-left: 15px;
+    border-bottom: 1px solid #dadce0;
+}
+.text--footer-2{
+    color: #70757A;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 15px 15px;
+}
+.div-content--2{
+    display: inline;
+    list-style: none;
+}
+.div-content--2 li {
+    display: inline-block;
+}
+#special-padding{
+    margin-right: 370px;
 }

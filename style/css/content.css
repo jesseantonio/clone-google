@@ -25,6 +25,8 @@ main{
     margin-bottom: 10px;
     margin-left: 10px;
     border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
 }
 .text--content{
     font-size: 13px;
@@ -36,5 +38,8 @@ main{
 }
 .buttons--content:hover{
     border-color: gray;
-    border-width: 1.5   px;
+    border-width: 1.5px;
+}
+.centerrr{
+    margin-left: 17%;
 }

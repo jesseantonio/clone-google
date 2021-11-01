@@ -6,20 +6,21 @@
   }
 nav{
   display: flex;
-  right: 100px;
+  float: right;
   align-items: center;
+  margin-right: 20px;
 }
 nav .nav--item{
-  margin-top: 2%;
+  margin-top: 3%;
+  justify-content: center;
 }
 .nav--item{
   display: inline-block;
-  justify-content: space-between;
-  padding-left: 10px;
+  justify-content: center;
+  padding-left: 18px;
   align-items: center;
 }
 .header{
-  
     justify-content: center;
     align-items: baseline;
 }
@@ -42,7 +43,6 @@ nav .nav--item{
 #remove-style:hover{
   text-decoration: underline;
 }
-
 div{
   justify-content: center;
   align-items: baseline;
